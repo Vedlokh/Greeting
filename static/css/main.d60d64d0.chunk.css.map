@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MAEE,iBAAkB,CACpB,eACA,CACA,MAEE,qBAEF,CACA,KACE,wBACF","file":"main.d60d64d0.chunk.css","sourcesContent":[".post\n{\n  text-align: center;\nmargin-top: 50vh;\n}\n.Card\n{\n  background-color: aqua;\n \n}\nbody{\n  background-color: darkslategrey;\n}"]}
